@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+
+}
+
+#particles-js{
+  background:#232323;
+  height:650px;
+
+}
+
+.name {
+color: white;
+position: absolute;
+margin-top: 200px;
+margin-left: 50px;
+margin-right: 50px;
+float: none;
+}
+ul li {
+  color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    .name {
+margin-top:60px;
+    }
+}
